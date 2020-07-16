@@ -1,3 +1,3 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Eric, a developer from Germany.
+I'm Eric – a developer from Germany.
