@@ -1,3 +1,1 @@
-# Hi there 👋
-
-I'm Eric – a developer from Germany & currently based in the UK.
+[![1000x420](https://raw.githubusercontent.com/ericjanto/assets/main/eden.gif "Eric Janto")](https://github.com/ericjanto)
