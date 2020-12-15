@@ -1,1 +1,1 @@
-[![1000x420](/eden.gif "Eric Janto")](https://ericjanto.com)
+<!-- [![1000x420](/eden.gif "Eric Janto")](https://ericjanto.com) -->
